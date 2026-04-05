@@ -12,6 +12,10 @@ tags:
   - computational-science
   - scientific-illustration
   - history-of-science
+cover:
+    image: /images/01_the_milkyway_040_meerkat.png
+    alt: "meerkat image"
+    relative: false
 author: "casualpanic"
 description: "how have our techniques for visualizing the cosmos evolved from paleolithic cave paintings to computational astronomy? and what does this tell us about immutable mobiles in the age of algorithmic science?"
 ---
