@@ -39,12 +39,31 @@ figure img {
     height: 44px;
     font-size: 18px;
   }
-
   .carousel-track {
     height: 250px !important;
   }
-
   .carousel-track img {
     max-height: 250px !important;
+  }
+}
+
+/* mobile lightbox fixes */
+@media (max-width: 768px) {
+  #lightbox > div {
+    flex-direction: column;
+    height: 90vh;
+    width: 100vw;
+    gap: 8px;
+  }
+
+  #lightbox-scroll {
+    width: 100%;
+    flex: 1;
+  }
+
+  #lightbox > div > button {
+    width: 36px;
+    height: 36px;
+    font-size: 16px;
   }
 }
