@@ -1,6 +1,6 @@
 baseURL = 'https://casualpanic.github.io/'
 languageCode = 'en-us'
-title = 'vizualization'
+title = 'visualization'
 theme = 'PaperMod'
 
 [params]
