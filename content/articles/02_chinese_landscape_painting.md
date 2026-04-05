@@ -20,6 +20,7 @@ cover:
     image: /images/02_chinese_landscape_painting_03_misty_river.png
     alt: "misty river"
     relative: false
+	hiddenInSingle: true
 author: "casualpanic"
 description: what made someone a “real” artist in the northern song dynasty (c. 960–1127)? how did exile shape an artist’s life and work? the paper deals with these questions by comparing contemporary artists guo xi and wang shen. It looks at a few of their paintings, and Guo Xi's technical and philosophical standards for what makes a good artist, as set out in his treatise *linquan-gaozhi*. The paper also asks whether existing art-historical scholarship can be temporarily suspended to make space for a completely unfiltered viewing experience.
 ---

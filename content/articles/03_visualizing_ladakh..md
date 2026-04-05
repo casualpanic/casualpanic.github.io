@@ -23,6 +23,7 @@ cover:
     image: /images/03_ladakh_067_schlag.jpg
     alt: "leh ladakh"
     relative: false
+	hiddenInSingle: true
 author: "casualpanic"
 description: how has ladakh’s climate been observed and recorded over time? this piece traces a shift from early nineteenth-century travel accounts to systematic scientific measurement, and finally to the archival records that underpin modern historical climatology. moving across irrigation systems, expeditions, missionary observatories, and linguistic work, it argues that climate knowledge in ladakh has been co-produced through the interaction of scientific practice, local expertise, and archival preservation. it also suggests that these records, still only partially explored, are crucial for reconstructing longer climate histories in a region now facing accelerating environmental change.
 ---
