@@ -54,6 +54,7 @@ figure img {
     height: 90vh;
     width: 100vw;
     gap: 8px;
+	justify-content: center;
   }
 
   #lightbox-scroll {
