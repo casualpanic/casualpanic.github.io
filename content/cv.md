@@ -29,23 +29,33 @@ first division
 ## experience
 
 **postdoctoral fellow**
-max planck institute for the history of science (mpiwg), Berlin *(may 2026–august 2026)*
+
+*max planck institute for the history of science (mpiwg), Berlin* (may 2026–august 2026)
+
 working on historical glaciology in high mountain asia, focusing on scientific expeditions, field practices, and visual cultures of landscape, and extending these insights to questions in contemporary science communication.
 
 **junior professional fellow**
-centre for ecology development and research (cedar), dehradun *(june 2024–ongoing)*  
+
+*centre for ecology development and research (cedar), dehradun* (**june 2024–ongoing**)
+
 one of three fellows in the himalaya, collaborating with indigenous communities to integrate their historical and environmental knowledge into cedar's research and science communication efforts.
 
 **tutor and course coordinator**
-victoria university of wellington, new zealand *(feb 2023–may 2024)*  
+
+*victoria university of wellington, new zealand* (**feb 2023–may 2024**)
+
 tutor for courses in american history and history of science & technology (HIST315, CSIS315). adapted teaching style to individual learning needs, graded essays, and connected historical themes to contemporary issues such as climate change and technology.
 
 **research assistant**
-indian national trust for art and cultural heritage, new delhi *(dec 2018–may 2019)*  
+
+*indian national trust for art and cultural heritage, new delhi* (**dec 2018–may 2019**)
+
 worked in the intangible cultural heritage division, leading fieldwork along the ganges river and creation of a digital heritage archive while managing multiple publications.
 
 **editor**
-indian cultural forum, new delhi *(dec 2016–june 2017)*  
+
+*indian cultural forum, new delhi* (**dec 2016–june 2017**)
+
 published works by indian cultural practitioners with open access for all readers.
 
 ---
