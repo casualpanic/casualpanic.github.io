@@ -30,6 +30,11 @@ theme = 'PaperMod'
   url = "/about/"
   weight = 3
 
+[[menu.main]]
+  name = "cv"
+  url = "/cv/"
+  weight = 4
+
 [taxonomies]
   tag = "tags"
   theme = "themes"
