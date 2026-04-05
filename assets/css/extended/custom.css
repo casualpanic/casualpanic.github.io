@@ -31,3 +31,20 @@ a {
 figure img {
     border-radius: 12px;
 }
+
+/* mobile carousel fixes */
+@media (max-width: 768px) {
+  .carousel-btn {
+    width: 44px;
+    height: 44px;
+    font-size: 18px;
+  }
+
+  .carousel-track {
+    height: 250px !important;
+  }
+
+  .carousel-track img {
+    max-height: 250px !important;
+  }
+}
