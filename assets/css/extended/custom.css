@@ -1,0 +1,33 @@
+/* Make everything lowercase */
+.post-title,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6,
+.post-content p,
+.post-content li,
+.post-content blockquote,
+.post-meta,
+.breadcrumbs,
+body {
+    text-transform: lowercase !important;
+}
+
+/* Keep links lowercase too */
+a {
+    text-transform: lowercase !important;
+}
+
+/* Make sure tags and metadata are lowercase */
+.post-tags,
+.share-buttons,
+.post-footer {
+    text-transform: lowercase !important;
+}
+
+/* rounded corners for images */
+figure img {
+    border-radius: 12px;
+}

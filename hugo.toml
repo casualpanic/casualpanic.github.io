@@ -1,0 +1,40 @@
+baseURL = 'https://casualpanic.github.io/'
+languageCode = 'en-us'
+title = 'vizualization'
+theme = 'PaperMod'
+
+[params]
+  description = "research in history of science and STS"
+  author = "casualpanic"
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowReadingTime = true
+
+[params.homeInfoParams]
+  Title = "visualizing history"
+  Content = "new ideas in science and history"
+
+[[menu.main]]
+  name = "research"
+  url = "/articles/"
+  weight = 1
+
+[[menu.main]]
+  name = "themes"
+  url = "/themes/"
+  weight = 2
+
+[[menu.main]]
+  name = "about"
+  url = "/about/"
+  weight = 3
+
+[taxonomies]
+  tag = "tags"
+  theme = "themes"
+  
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
