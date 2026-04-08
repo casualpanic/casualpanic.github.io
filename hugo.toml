@@ -13,7 +13,7 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
   Title = "visualizing history"
-  Content = "new ideas in science and history"
+  Content = "there is an enormous visual apparatus humans have built for representing a world that changes faster than anyone can make sense of it. different visual regimes carry their own conventions and distortions, and each visual artefact misses something while exaggerating something else. geographical atlases, landscape paintings, sacred cosmographies, vast galactic maps, or simply a field sketch of a mountain range taken during a hailstorm by a person who was almost certainly underpaid, all tell us very different things. behind all of this lies a material infrastructure of tools and practices, such as theodolites set up on uneven ground, compasses and dividers for transferring river, mountains, and coastlines onto maps, or advanced instruments like cameras on satellites in motion and telescopes in observatories fixed in place, both hurtling through space. this site sits at the intersection of history of science, art, and environment and examines how we have forced the world into forms that make sense to us. most of the material comes from the nineteenth and twentieth centuries, and much of it concerns mountains. new essays appear occasionally."
 
 [[menu.main]]
   name = "research"
