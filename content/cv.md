@@ -30,7 +30,7 @@ first division
 
 **postdoctoral fellow**
 
-*max planck institute for the history of science (mpiwg), Berlin* (may 2026–august 2026)
+*max planck institute for the history of science (mpiwg), Berlin* (**may 2026–august 2026**)
 
 working on historical glaciology in high mountain asia, focusing on scientific expeditions, field practices, and visual cultures of landscape, and extending these insights to questions in contemporary science communication.
 
@@ -56,7 +56,7 @@ worked in the intangible cultural heritage division, leading fieldwork along the
 
 *indian cultural forum, new delhi* (**dec 2016–june 2017**)
 
-published works by indian cultural practitioners with open access for all readers.
+Our collective [publishes](https://indianculturalforum.in/) outstanding works by Indian cultural practitioners online, providing a space free from intimidation, censorship, and exclusion, with open access for all readers.
 
 ---
 
@@ -81,7 +81,7 @@ qualified for assistant professor roles at national level.
 
 ## publications
 
-tewari, t. 2025 (forthcoming in april). himalayan fossils and the making of global palaeontology: circulation, indigenous expertise, and the production of geological knowledge, c. 1820–1895. *geological curator*. xx (x): xxx–xxx.
+Tewari, Tilak. “Himalayan fossils and the making of global palaeontology: circulation, indigenous expertise, and the production of geological knowledge, c. 1820–1895.” *Geological Curator*. XX (X): XXX–XXX. (forthcoming in May).
 
 tilak tewari and arista roy. "vanishing flows: mussoorie's springs and the price of progress." *ArcGIS StoryMaps*, 2025. [link](https://storymaps.arcgis.com/stories/0bce5a2fc7ad4232b78c87284ab0aa04/)
 
@@ -95,7 +95,7 @@ tewari, tilak and vidhya aiyar. "they chose death over humiliation." in *battlin
 
 "disciplining ice: colonial bodies and the neglected origins of glaciology in high mountain asia (c. 1808–1860)." manchester workshop series on natural archives and the history of science in asia, november 17, 2025. [link](https://blogs.manchester.ac.uk/chstm/2025/10/07/workshop-melting-ice/)
 
-"specimens of empire: extraction, control, and the global inequities of science." GCG EDI symposium 2025, geological curators' group, april 9, 2025. [link](https://www.geocurator.org/events/182-edi-symposium)
+"specimens of empire: extraction, control, and the global inequities of science." GCG EDI symposium 2025, geological curators' group, april 9, 2025.
 
 "from highlands to hill stations: scots in the mountains of india." scottish graduate school for arts & humanities, 2024. [link](https://sgsahresearch.com/portfolio/tilak-tewari/)
 
