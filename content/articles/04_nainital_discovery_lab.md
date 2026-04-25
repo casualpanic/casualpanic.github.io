@@ -19,7 +19,7 @@ cover:
     relative: false
     hiddenInSingle: true
 author: "casualpanic"
-description: 'nainital is a hill station on the southern slopes of the kumaon himalaya. the lake is noted in early nineteenth-century surveys and administrative records, before being repackaged in 1841 as a "discovery," a routine gesture in british travel writing. over the century, the lake is drawn into an expanding visual culture, appearing in maps and engraved views, then in sketches and paintings, and finally under the inevitable eye of the camera. but from the moment of its "discovery," the town was put to use in more practical ways, particularly in medicine and scientific work, where it functioned as no less than a "mountain laboratory." the idea of nainital as a scientific hub sits uneasily with the more familiar image of a lazy lake town, "naughty nainital," remembered for its scandal and gossip; its role as a hotbed of scientific and medical research is largely ignored by modern audiences, an omission sustained by a lingering colonial hangover.'
+description: 'nainital is a hill station on the southern slopes of the kumaon himalaya. the lake is noted in early nineteenth-century surveys and administrative records, before being repackaged in 1841 as a "discovery," a routine gesture in british travel writing. over the century, the lake is drawn into an expanding visual culture, appearing in maps and engraved views, then in sketches and paintings, and finally under the inevitable eye of the camera. but from the moment of its discovery, the town was put to use in more practical ways, particularly in medicine and scientific work, where it functioned as no less than a "mountain laboratory." the idea of nainital as a scientific hub sits uneasily with the more familiar image of a lazy lake town, "naughty nainital," remembered for its scandal and gossip; its role as a hotbed of scientific and medical research is largely ignored by modern audiences, an omission sustained by a lingering colonial hangover.'
 ---
 
 nainital is a hill station on the southern slopes of the kumaon himalaya, in present-day Uttarakhand, with Nepal to the east and Tibet to the north beyond the higher himalayan ranges. it is, at its simplest, a town organised around a lake in the mountains. established in the mid-nineteenth century as a british sanitarium, it lies at an elevation of roughly 6,300 feet above sea level. the lake itself sits within a steep, basin-like hollow, with ridges rising sharply on all sides so that the settlement appears held within the surrounding hills rather than spread across them. these slopes are dominated by banj and tilonj oak, alongside himalayan cypress and deodar, with a dense undergrowth that includes wild berberry, himalayan musk rose, common sage, and urtica parviflora—the notorious stinging nettle that thrives wherever it finds purchase. the kumaon region in which this landscape lies has, over time, fallen under different regimes of political control.
@@ -40,7 +40,7 @@ prior to the nineteenth century, kumaon was ruled from Almora by the chand rajas
 
 >"Grievous offences against the Hindu religion and system, such as the wilful destruction of a cow or the infringement of caste distinctions by a Dom—for example, knowingly using a hukka or any other utensil belonging to a Rajput or Brahmin—were also capital. The mode of inflicting capital punishment was either by hanging or beheading; the Gorkhas introduced impaling and sometimes put convicts to death with the most cruel tortures." (Batten 1851, p. 28). 
 
-among the more detailed contemporary observers was artist and himalayan traveller James Baillie Fraser (1783–1856), who travelled through the wider himalayan region during the anglo-nepalese war and left both written and visual records of the landscape and its people (fraser 1820, see part I on the Anglo-Gorka War). these materials, including his drawings, were brought back into wider circulation through the work of Mildred Archer and Toby Falk in *india revealed* (archer and falk 1989), which has recently been explored in greater depth (Joshi 2025).
+among the more detailed contemporary observers was artist and himalayan traveller James Baillie Fraser (1783–1856), who travelled through the wider himalayan region during the anglo-nepalese war and left both written and visual records of the landscape and its people (fraser 1820, see part I on the Anglo-Gorhka War). these materials, including his drawings, were brought back into wider circulation through the work of Mildred Archer and Toby Falk in *india revealed* (archer and falk 1989), which has recently been explored in greater depth (Joshi 2025).
 
 at the conclusion of the Anglo-Gorkha War, and the signing of the treaty of sugauli in 1816, kumaon found itself entangled in what has been described as the East India Company’s “tentacles of progress” (Headrick 1988).
 
@@ -59,7 +59,7 @@ following the incorporation of kumaon into british territory, the EIC's attentio
            onclick="openLightbox(this)"
            style="display:none; max-width:100%; max-height:450px; width:auto; height:auto; border-radius:12px; object-fit:contain; cursor:zoom-in;">
       <img src="/images/nainital/04_nyneetal_012_WW_1819.jpg"
-           data-caption="figure 3: sketch map shewing progress of webb's survey, 1815–19. webb's triangulation was based on latitudes observed at kumaon and other stations. nainital is clearly marked to the south-southwest of almora, the principal british administrative centre in the region. this places the lake firmly within the cartographic record more than two decades before its supposed discovery."
+           data-caption="figure 3: sketch map shewing progress of webb's survey, 1815–19. webb's triangulation was based on latitudes observed at kumaon and other stations. nainital is clearly marked to the south-southwest of almora, the principal british administrative centre in the region. this places the lake firmly within the cartographic record more than two decades before barron's arrival."
            onclick="openLightbox(this)"
            style="display:none; max-width:100%; max-height:450px; width:auto; height:auto; border-radius:12px; object-fit:contain; cursor:zoom-in;">
       <img src="/images/nainital/04_nyneetal_013_WW_1819.png"
@@ -70,7 +70,7 @@ following the incorporation of kumaon into british territory, the EIC's attentio
     </div>
     <button onclick="moveCarousel(this,1)" style="background:none; border:1px solid currentColor; border-radius:50%; width:36px; height:36px; cursor:pointer; font-size:16px; flex-shrink:0; opacity:0.5;">&#8594;</button>
   </div>
-  <div class="carousel-caption" style="font-size:0.85em; opacity:0.6; text-align:center;">figure 1: map of the survey to gangotri, lieut. w. s. webb, 1810. the earliest scientific survey map of the himalayas, with the kumaon lake district (bottom-right) already within the scope of official geographical knowledge.</div>
+  <div class="carousel-caption" style="font-size:0.85em; opacity:0.6; text-align:center;">figure 1: map of the survey to gangotri, lieut. w. s. webb, 1810. the earliest scientific survey map of the himalaya, with the kumaon lake district (bottom-right) already within the scope of official geographical knowledge.</div>
 </div>
 
 <div id="lightbox" onclick="closeLightboxOutside(event)" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.85); z-index:9999; flex-direction:column; align-items:center; justify-content:center;">
@@ -258,7 +258,7 @@ among the earliest photographers to work in Nainital was John Murray (1809–189
     </div>
     <button onclick="moveCarousel(this,1)" style="background:none; border:1px solid currentColor; border-radius:50%; width:36px; height:36px; cursor:pointer; font-size:16px; flex-shrink:0; opacity:0.5;">&#8594;</button>
   </div>
-  <div class="carousel-caption" style="font-size:0.85em; opacity:0.6; text-align:center;">figure 6: naini-tal lake, john murray, c. 1855. albumen print, 38.5 × 45 cm. one of murray's earliest large-format views of the lake.</div>
+  <div class="carousel-caption" style="font-size:0.85em; opacity:0.6; text-align:center;">figure 6: naini tal lake, john murray, c. 1855. albumen print, 38.5 × 45 cm. one of murray's earliest large-format views of the lake.</div>
 </div>
 
 around the same time that John Murray was active in Nainital, two illustrated periodicals from 1857 offer another view of the place. in the context of the Indian Rebellion of 1857, hill stations such as nainital appear in engravings as places of relative safety, removed from the disturbances of the plains. the lake is shown as calm, with houses set along its edge and the surrounding hills enclosing the settlement. these images circulated at a time when the plains were unsettled, and they helped fix the hills in the imagination as spaces of retreat.
@@ -297,7 +297,7 @@ following John Murray, John Edward Sache (1824–1882) appeared in nainital. bor
            onclick="openLightbox(this)"
            style="display:none; max-width:100%; max-height:450px; width:auto; height:auto; border-radius:12px; object-fit:contain; cursor:zoom-in;">
       <img src="/images/nainital/04_nyneetal_062_JES.jpg"
-           data-caption="figure 14: unser hotel, nynee tal, john edward saché, undated. the hotel stands as an early marker of the infrastructure that followed colonial settlement: accommodation for the seasonal visitor, the touring official, the family escaping the plains."
+           data-caption="figure 14: unser hotel, or, our hotel, nynee tal, john edward saché, undated. the hotel from where this photograph is taken stands as an early marker of the infrastructure that followed colonial settlement: accommodation for the seasonal visitor, the touring official, the family escaping the plains."
            onclick="openLightbox(this)"
            style="display:none; max-width:100%; max-height:450px; width:auto; height:auto; border-radius:12px; object-fit:contain; cursor:zoom-in;">
       <img src="/images/nainital/04_nyneetal_063_JES.jpg"
@@ -359,7 +359,7 @@ among those who painted in Nainital was Marianne North (1830–1890), a trained 
     <button onclick="moveCarousel(this,-1)" style="background:none; border:1px solid currentColor; border-radius:50%; width:36px; height:36px; cursor:pointer; font-size:16px; flex-shrink:0; opacity:0.5;">&#8592;</button>
     <div class="carousel-track" style="flex:1; overflow:hidden; height:450px; display:flex; align-items:center; justify-content:center; position:relative;">
       <img src="/images/nainital/04_nyneetal_080_MN1878.jpg"
-           data-caption="figure 22: going to nainital, india in spring, marianne north, c. 1878. the road to the hill station rendered in north's characteristically saturated palette — the vegetation pressing in from every side, the path barely holding its own against the surrounding growth. where the photographers recorded the lake and its settlement, north turns her eye to what one passes through to get there."
+           data-caption="figure 22: going to nainital, india in spring, marianne north, c. 1878. the road to the hill station rendered in north's characteristically saturated palette."
            onclick="openLightbox(this)"
            style="display:block; max-width:100%; max-height:450px; width:auto; height:auto; border-radius:12px; object-fit:contain; cursor:zoom-in;">
       <img src="/images/nainital/04_nyneetal_081_MN.jpg"
