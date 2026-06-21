@@ -411,7 +411,7 @@ alongside these works, a range of sketches, paintings, and later postcards from 
            data-caption="figure 31: the waverley hotel, nainital, postcard, c. 1908. the hotel—named, like much of hill station culture, after a piece of imported british identity—sits above the lake as one of the town's established institutions. by the time this postcard was printed, nainital had long since ceased to be a novelty."
            onclick="openLightbox(this)"
            style="display:none; max-width:100%; max-height:450px; width:auto; height:auto; border-radius:12px; object-fit:contain; cursor:zoom-in;">
-      <img src="/images/nainital/04_nyneetal_095_PC.png"
+      <img src="/images/nainital/04_nyneetal_095_PC.jpg"
            data-caption="figure 32: the gymkhana regatta, naini tal, postcard, 1910s. what was once a sacred lake, and then as a site of refuge during rebellion, now hosted exciting regattas. the postcard records a social calendar that had fully settled into place, with the water as amenity, the hills as backdrop, and the season as an essential part of british social life."
            onclick="openLightbox(this)"
            style="display:none; max-width:100%; max-height:450px; width:auto; height:auto; border-radius:12px; object-fit:contain; cursor:zoom-in;">

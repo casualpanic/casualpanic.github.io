@@ -81,7 +81,7 @@ qualified for assistant professor roles at national level.
 
 ## publications
 
-Tewari, Tilak. “Himalayan fossils and the making of global palaeontology: circulation, indigenous expertise, and the production of geological knowledge, c. 1820–1895.” *Geological Curator*. XX (X): XXX–XXX. (forthcoming in May).
+Tewari, Tilak. “Himalayan fossils and the making of global palaeontology: circulation, indigenous expertise, and the production of geological knowledge, c. 1820–1895.” *Geological Curator*. 12 (2): 113–29. [link](https://doi.org/10.55468/GC1529)
 
 tilak tewari and arista roy. "vanishing flows: mussoorie's springs and the price of progress." *ArcGIS StoryMaps*, 2025. [link](https://storymaps.arcgis.com/stories/0bce5a2fc7ad4232b78c87284ab0aa04/)
 

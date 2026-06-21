@@ -16,7 +16,7 @@ i'm a postdoctoral researcher in environmental history and history of science at
 
 my broader research engages with science and technology studies (particularly latour's work on immutable mobiles and centres of calculation), the history of scientific visualization, and the relationship between fieldwork practices and distant witnessing in nineteenth-century colonial science.
 
-i completed my phd on the modernization of various geosciences (and cognate disciplines) through high-altitude colonial stations in south and southeast asia, and i'm currently converting that work into a book on british india's hill stations as scientific localities.
+i completed my phd on the modernization of various geosciences (and other scientific disciplines) through high-altitude colonial stations in south and southeast asia, and i'm currently converting that work into a book on british india's hill stations as scientific localities.
 
 [cv](/cv/)
 
@@ -24,4 +24,4 @@ i completed my phd on the modernization of various geosciences (and cognate disc
 
 [email me](mailto:te.tilak77@gmail.com)
 
-thoughts, corrections, collaborations, and interesting images all welcome.
+thoughts, corrections, collaborations, and interesting finds all welcome.
