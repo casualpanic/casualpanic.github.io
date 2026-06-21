@@ -12,7 +12,7 @@ tags:
   - colonial-science
   - nineteenth-century
 cover:
-    image: /images/05_heavyrain_01.webp
+    image: /images/05_heavyrain_01.jpg
     alt: "thunder at nainital"
     relative: false
     hiddenInSingle: false
@@ -20,15 +20,17 @@ author: "casualpanic"
 description: "an account of the extraordinary hailstorm that struck nynee tal on 11 may 1855, reproduced from transactions of the bombay geographical society 12 (1856)."
 ---
 
+<div style="font-size:0.85em; opacity:0.6; text-align:center; margin-top:0;">thunder in the nainital skies, 2025. photo courtesy of <a href="https://www.instagram.com/glacialeyes/" target="_blank">@glacialeyes</a></div>
+
+<br>
+
 source: [extract](https://babel.hathitrust.org/cgi/pt?id=hvd.hnunfd&seq=131) from transactions of the bombay geographical society 12 (1856), pp. 25–26.
 
-*editor's note: this particular account is hilarious and horrifying at the same time. barometer readings and dry-bulb temperatures appear alongside scenes of men and animals scrambling for shelter from the murderous hail. the author is seemingly unable to decide whether he is filing a meteorological report or talking about trauma. the prose is, in any case, vivid enough to make the distinction beside the point, a reminder that the visualization of natural phenomena was never confined to maps and diagrams but extended, here, into this chaotic narrative. 
-
-paragraph breaks have been added for readability. original spelling, terminology, and punctuation have otherwise been retained.*
+*editor's note: this particular account is hilarious and horrifying at the same time. barometer readings and dry-bulb temperatures appear alongside scenes of men and animals scrambling for shelter from the murderous hail. the author is seemingly unable to decide whether he is filing a meteorological report or talking about trauma. the prose is, in any case, vivid enough to make the distinction beside the point, a reminder that the visualization of natural phenomena was never confined to maps and diagrams but extended, here, into this chaotic narrative. paragraph breaks have been added for readability. original spelling, terminology, and punctuation have otherwise been retained.*
 
 ---
 
-## hailstorm at nainee tal on the 11th may 1855
+## hailstorm at nainee tal on 11th may 1855
 
 on the 11th of may 1855, nynee tal was visited by a storm of hail which, as regards the size, weight, and number of the stones, has probably never been surpassed.
 
