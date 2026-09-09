@@ -18,7 +18,7 @@ my broader research engages with science and technology studies (particularly la
 
 i completed my phd on the modernization of various geosciences (and other scientific disciplines) through high-altitude colonial stations in south and southeast asia, and i'm currently converting that work into a book on british india's hill stations as scientific localities.
 
-[cv](/cv/)
+[cv](/2026_cv_tt.pdf)
 
 ## contact
 
