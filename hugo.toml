@@ -33,7 +33,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
   name = "cv"
-  url = "/cv/"
+  url = "/2026_CV_Tilak.pdf"
   weight = 4
 
 [taxonomies]
